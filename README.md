@@ -1,5 +1,4 @@
-# 📄 ResumeRank AI - ATS Resume Analyzer
-
+# 📄 	ResumeRank AI | AI-Powered ATS Resume Analyzer 
 ## About the Project
 
 ResumeRank AI is an AI-powered ATS (Applicant Tracking System) Resume Analyzer that evaluates resumes against job descriptions and provides actionable feedback to improve job application success rates. The platform analyzes resume content, validates skills, measures job-description matching, and generates AI-driven recommendations for resume improvement.
